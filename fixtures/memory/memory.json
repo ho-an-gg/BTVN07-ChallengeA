@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "updated_at": null,
+  "current_conventions": [
+    {
+      "id": "api_endpoint_prefix",
+      "title": "API endpoint prefix",
+      "content": "Mọi endpoint API mới bắt buộc dùng tiền tố /api/v1.",
+      "scope": "Endpoint API mới.",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": "json_field_naming",
+      "title": "JSON field naming",
+      "content": "Tên trường JSON dùng kiểu camelCase.",
+      "scope": "JSON request và response của API mới.",
+      "created_at": null,
+      "updated_at": null
+    }
+  ],
+  "history": []
+}
